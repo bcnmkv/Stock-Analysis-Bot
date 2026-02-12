@@ -1,6 +1,6 @@
 # Stock-Analysis-Bot
 
-## 🤖 About
+## ❓ About
 This is a Power Automate Desktop flow that automatically retrieves stock tickers from an Excel file, scrapes the latest news headlines for each stock, and saves the data back into Excel.
 
 ## 🚀 Features
