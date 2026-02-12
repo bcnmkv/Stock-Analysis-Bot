@@ -17,7 +17,7 @@ This is a Power Automate Desktop flow that automatically retrieves stock tickers
 
 ## Installation & Setup
 1. **Download the Repository:** Clone or download this project.
-2. **Prepare Excel:** Move `data/Stocks.xlsx` to your `Downloads` folder (or update the path in the flow).
+2. **Prepare Excel:** Move `data/Stocks.xlsx` to your `Downloads` folder (or update the path in the flow). Fill out the `Ticker` and `Name` columns according to your investments.
 3. **Import Flow:**
    - Open the `bot_flow.txt` file.
    - Copy the entire text.
