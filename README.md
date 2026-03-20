@@ -31,3 +31,5 @@ This is a Power Automate Desktop flow that automatically retrieves stock tickers
 
 ## Notes
 - Ensure your browser extensions for Power Automate are installed and enabled.
+- Ensure that Powerfx for this flow is turned on
+- Dont forget to format the Excel data before loading it into Power BI
